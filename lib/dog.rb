@@ -5,4 +5,3 @@ fido = Dog.new
 
 snoopy = new.Dog
 
-lassie = 
