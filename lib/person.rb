@@ -1,6 +1,6 @@
-class Human
+class Person
 end
 
-adele_goldberg = Human.new 
+adele_goldberg = Person.new 
 
-alan_kay = Human.new 
+alan_kay = Person.new 
